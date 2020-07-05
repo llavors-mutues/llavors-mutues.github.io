@@ -30,6 +30,8 @@ google_analytics: UA-171526379-1
 
 # Build settings
 remote_theme: chrisrhymes/bulma-clean-theme
+plugins:
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
