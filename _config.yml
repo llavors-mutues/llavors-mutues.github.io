@@ -29,7 +29,7 @@ github_username:  llavors-mutues
 google_analytics: UA-171526379-1
 
 # Build settings
-theme: bulma-clean-theme
+remote_theme: chrisrhymes/bulma-clean-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
