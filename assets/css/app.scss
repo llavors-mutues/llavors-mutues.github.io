@@ -1,0 +1,30 @@
+---
+---
+
+.hero-body {
+  text-shadow: 2px 2px black;
+}
+
+.footer {
+  padding-bottom: 3rem !important;
+}
+
+.content {
+  text-align: justify;
+}
+
+@media screen and (min-width: 769px) {
+  .hero.is-medium .hero-body {
+    padding: 5rem 1.5rem !important;
+  }
+}
+
+@media screen and (min-width: 1408px) {
+  .container {
+    max-width: 1100px !important;
+  }
+}
+
+$primary: #363522;
+// Import Main CSS file from theme
+@import "main";
