@@ -10,9 +10,9 @@ hero_image: /assets/llavors-mutues.jpg
 
 Transactors are holochain zomes that implement mutual-credit transaction behaviour. They include entry and links definition, their validation rules and the peer-to-peer interaction necessary for the transactions to take place.
 
-### Private pessimistic transactor 
+### Private slow transactor 
 
-[**Github repository**](https://github.com/llavors-mutues/private-slow-transactor)
+[**Github repository**](https://github.com/llavors-mutues/private-slow-transactor/)
 
 **Status**: working proof of concept, with a few known issues and security audits still needed.
 
@@ -24,7 +24,7 @@ In this peer-to-peer validation, it takes a slow or pessimistic approach about t
 
 Web Components using native custom-elements and GraphQl middleware packaged as a reusable module.
 
-[**Github repository**](https://github.com/llavors-mutues/private-slow-transactor/blob/master/ui)
+[**Github repository**](https://github.com/llavors-mutues/private-slow-transactor/tree/master/ui)
 
 **Status**: proof of concept working, needs polishing.
 
