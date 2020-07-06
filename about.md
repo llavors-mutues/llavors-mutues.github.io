@@ -1,10 +1,11 @@
 ---
 layout: page
 title: About us
-subtitle: We are passionate members of the holochain community
 permalink: /about/
 hero_image: /assets/llavors-mutues.jpg
 ---
+
+We are passionate members of the holochain community
 
 ## Guillem Córdoba
 
